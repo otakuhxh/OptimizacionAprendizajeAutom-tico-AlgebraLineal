@@ -1,1 +1,0 @@
-# OptimizacionAprendizajeAutom-tico-AlgebraLineal
